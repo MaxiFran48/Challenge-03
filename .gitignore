@@ -35,3 +35,14 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### Node ###
+node_modules/
+package-lock.json
+
+### Logs ###
+*.log
+logfile
+
+### Credenciales / Entorno ###
+src/main/resources/application.properties
